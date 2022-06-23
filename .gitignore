@@ -1,0 +1,10 @@
+/*
+# исключить из игнора папку с содержимым
+!.gitignore
+!README.md
+
+!bitrix
+bitrix/*
+!bitrix/modules
+bitrix/modules/*
+!bitrix/modules/stepup.favourites
